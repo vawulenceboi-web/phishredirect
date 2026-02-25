@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://heidrick.com/$1",
+      "permanent": true
+    }
+  ]
+}
